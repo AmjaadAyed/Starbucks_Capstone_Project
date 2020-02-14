@@ -45,6 +45,18 @@ Three JSON files that show profiles of customers, promotional deals that are off
 •	value - (dict of strings) - either an offer id or transaction amount depending on the record
 
 
+# Results & Observations
+
+
+- Discount and BOGO represent the higher types of offers.
+- Most of the customers are male.
+- The majority of the customers have their income average at USD 60K.
+- Most of the customers locate between the age of 43 and 77 customers.
+- Transactions are higher events types.
+
+all these observations can be considered for building another machine-learning approach to build a recommendation engine or to extract further features using the feature engineering techniques to predict and improve the efficiency of this recommendation engine. 
+
+
 # Licensing, Authors, Acknowledgements
 
 This project was completed as part of the Udacity Data Scientist Nanodegree. Code templates and data were provided by Udacity. The data was originally sourced by Udacity from Starbucks.
