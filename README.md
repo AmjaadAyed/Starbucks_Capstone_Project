@@ -8,7 +8,7 @@ There are three types of offers that can be sent: buy-one-get-one (BOGO), discou
 
 The main purpose of this project to explore the behavior of different customers going through using the best machine-learning model to classify the customers based on their income. 
 
-We will start by understanding the data through an exploratory data analysis journey, followed by the results and outcomes of the analysis.
+We will start by understanding the data through an exploratory data analysis journey using Pandas, Numpy, and scikit-learn libraries followed by the results and outcomes of the analysis.
 
 Below the 2 machine-learning models has been used to predict the income of the customers.
 
