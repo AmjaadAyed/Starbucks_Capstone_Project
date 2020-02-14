@@ -44,3 +44,10 @@ Three JSON files that show profiles of customers, promotional deals that are off
 •	time (int) - time in hours since start of test. The data begins at time t=0
 •	value - (dict of strings) - either an offer id or transaction amount depending on the record
 
+
+# Licensing, Authors, Acknowledgements
+
+This project was completed as part of the Udacity Data Scientist Nanodegree. Code templates and data were provided by Udacity. The data was originally sourced by Udacity from Starbucks.
+
+
+
